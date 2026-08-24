@@ -1,0 +1,6 @@
+{
+  "name": "Regina Gold | ريجينا للمجوهرات والذهب",
+  "description": "متجر دار ريجينا جولد للذهب والمجوهرات الراقية، تشكيلات ذهب إيطالي وعيار 18 و 21، صياغة وتفصيل خاص، وتوصيل حتى باب المنزل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
